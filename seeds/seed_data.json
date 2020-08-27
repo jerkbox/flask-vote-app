@@ -1,6 +1,6 @@
 {
    "poll": "Favourite Linux Distribution, with or without goats",
-   "question": "What is your favourite Linux Distribution with - or without goats?",
+   "question": "What is your favourite Linux Distribution?",
    "options": [
 	"Mint",
 	"Fedora",
@@ -11,7 +11,6 @@
 	"Red Hat Universal Base Image",
 	"Alpine",
 	"Arch",
-	"GoatOS",
 	"Other"
    ]
 }
